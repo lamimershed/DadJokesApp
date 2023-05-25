@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lamimershed/DadJokesApp.git/static/css/main.338a3849.css",
+    "main.js": "/lamimershed/DadJokesApp.git/static/js/main.f9f34245.js",
+    "static/js/787.30394bd9.chunk.js": "/lamimershed/DadJokesApp.git/static/js/787.30394bd9.chunk.js",
+    "index.html": "/lamimershed/DadJokesApp.git/index.html",
+    "main.338a3849.css.map": "/lamimershed/DadJokesApp.git/static/css/main.338a3849.css.map",
+    "main.f9f34245.js.map": "/lamimershed/DadJokesApp.git/static/js/main.f9f34245.js.map",
+    "787.30394bd9.chunk.js.map": "/lamimershed/DadJokesApp.git/static/js/787.30394bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338a3849.css",
+    "static/js/main.f9f34245.js"
+  ]
+}
